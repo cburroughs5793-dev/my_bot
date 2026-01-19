@@ -12,7 +12,7 @@
             <geometry>
                 <cylinder radius="0.05" length="0.04"/>
             </geometry>
-            <material name="black"/>
+            <material name="red"/>
         </visual>
         <visual>
             <origin xyz="0 0 -0.05"/>
